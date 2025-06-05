@@ -40,4 +40,6 @@ int main()
          cout << "arr[" << i << "] = " << arr3[i] << endl;
     }
 
+    return 0;
+
 }
